@@ -1,4 +1,4 @@
-# preact
+# vite-preact
 
 Smallest Preact (React Compatible) environment
 
