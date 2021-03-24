@@ -3,7 +3,7 @@
 Smallest Preact (React Compatible) environment (<1 MB inside node_modules)
 
 Step 1 - Get this template   
-`npx degit richajak/vite-project my-project`
+`npx degit richajak/vite-preact my-project`
 
 Step 2 - Install dependency   
 `cd my-project`   
