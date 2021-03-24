@@ -16,6 +16,6 @@ That's all.
 
 Note: 
 
-Step 0 - Only once, install VITE as global
+Step 0 - Only once, install VITE as global   
 `npm install -g vite`
 
