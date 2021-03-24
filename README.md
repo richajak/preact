@@ -1,6 +1,6 @@
 # vite-preact
 
-Smallest Preact (React Compatible) environment
+Smallest Preact (React Compatible) environment (<1 MB inside node_modules)
 
 Step 1 - Get this template
 `npx degit richajak/vite-project my-project`
